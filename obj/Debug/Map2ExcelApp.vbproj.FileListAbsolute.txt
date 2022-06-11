@@ -1,0 +1,11 @@
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\Map2ExcelApp.vbproj.ResolveComReference.cache
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\bin\ActivityOwner Map2Excel.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\bin\ActivityOwner Map2Excel.pdb
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\bin\ActivityOwner Map2Excel.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\bin\ActivityOwner Map2Excel.tlb
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\ActivityOwner Map2Excel.dll
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\ActivityOwner Map2Excel.xml
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\ActivityOwner Map2Excel.pdb
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\Map2Excel.map2exceloptions.resources
+d:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\Map2Excel.ImportInProgress.resources
+D:\Jack\Documents\Visual Studio 2010\Projects\Map2Excel\Map2Excel\obj\Debug\Map2ExcelApp.vbproj.GenerateResource.Cache
